@@ -1,5 +1,7 @@
 <h1>Recipe search app built with Vue.js</h1>
 
+[![meals.png](https://i.postimg.cc/52N8tpNc/meals.png)](https://postimg.cc/BXkjYTKN)
+
 # Vue 3 + Vite
 
 ## Recommended IDE Setup
