@@ -43,7 +43,7 @@
         <YouTubeButton :href="meal.strYoutube" />
         <a :href="meal.strSource" target="_blank"
           class="ml-3 px-3 py-2 rounded border-2 text-white border-green-600 bg-green-600  hover:bg-green-400 transition-colors">
-          View Original Source
+          View original source
         </a>
       </div>
     </div>
