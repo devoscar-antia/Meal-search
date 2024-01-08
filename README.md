@@ -1,5 +1,3 @@
-<h1>Recipe search app built with Vue.js</h1>
-
 ## 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧
 
 <p>In the Meals project used  free third party API and build recipe and meal search application using Vue.js .By building this application we will learn how to interact with API, how to define parent and child routes in Vue.js, How to define layouts,  how to create scalable file and folder structure, how to use Vue composition API and many other important things.For building this Interface we will use Tailwind css.</p>
