@@ -9,21 +9,21 @@
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 <ul>
-<li> ▪️ 1 Search for meals. </li>
-<li> ▪️ 2 Filter meals by letter </li>
-<li> ▪️ 3 Search meals by ingredients </li>
-<li> ▪️ 4 Find recipe video of meals </li>
-<li> ▪️ 5 Observe the origin of the meals </li>
+<li>  1 Search for meals. </li>
+<li>  2 Filter meals by letter </li>
+<li>  3 Search meals by ingredients </li>
+<li>  4 Find recipe video of meals </li>
+<li>  5 Observe the origin of the meals </li>
 </ul>
 
 
 ## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
 <ul>
-<li> ▪️ 1-Clone the repository </li>
-<li> ▪️ 2-Run npm install </li> 
-<li> ▪️ 3-Copy .env .example into .env </li>
-<li> ▪️ 4-Run npm run dev to start the application at http://localhost:3000 </li>
+<li>  1-Clone the repository </li>
+<li>  2-Run npm install </li> 
+<li>  3-Copy .env .example into .env </li>
+<li>  4-Run npm run dev to start the application at http://localhost:3000 </li>
 </ul>
 
 ## 𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 
