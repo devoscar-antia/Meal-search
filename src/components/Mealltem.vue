@@ -17,7 +17,7 @@
 
 <script setup>
 
-import YouTubeButton from './youtubebutton.vue';
+import YouTubeButton from "./youtubebutton.vue"
 
 const { meal } = defineProps({
   meal: {
