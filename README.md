@@ -80,7 +80,7 @@
     └── vite.config.js
 ```
 
-[![img2.png](https://i.postimg.cc/5tM0bfqp/img2.png)](https://postimg.cc/DSBFckNb)
+[![371shots-so.webp](https://i.postimg.cc/NjNRCdBY/371shots-so.webp)](https://postimg.cc/dhy7LmhS)
 
 ## R𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬
 
