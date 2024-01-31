@@ -5,7 +5,7 @@
 ## 𝐰𝐞𝐛
 [Meal-Search](https://meal-search-dusky.vercel.app/#/)
 
-[![img1.png](https://i.postimg.cc/Jn195FMR/img1.png)](https://postimg.cc/B8VYqMjz)
+[![748shots-so.webp](https://i.postimg.cc/630XX43r/748shots-so.webp)](https://postimg.cc/wy7P5vDM)
 
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
